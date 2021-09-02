@@ -10,7 +10,7 @@ The first step was to collect the data from the sources. In order to do that I h
  Kijiji Web Scrape
 Before developing the app, I have done some research into Kijiji page to identify the fields I wanted to collect. Based on this, I wrote some code lines and tried it. I realized that it would be necessary around 8000 searches on the page to get the data. One of the problems I would have, it would be the failure when a page wouldn’t be updated or returned a wrong page. To deal with this problem, I inserted a block with “try and except”, a loop with “While”, and a “time.sleep()” to deal with the exceptions. If the error persisted a file with the URLs not collected would be saved to be treated for me after.  Here there is some part of the code:
  
- 
+ ![](gitup01.JPG)
 
  
 
