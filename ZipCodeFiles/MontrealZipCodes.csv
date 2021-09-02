@@ -1,0 +1,127 @@
+SL. NO.,NEIGHBOURHOOD / LOCALITY,POSTAL_CODES,CITY,,
+1,Ahuntsic Central,H2C,Montreal,1,1
+2,Ahuntsic East,H2M,Montreal,1,1
+3,Ahuntsic North,H2B,Montreal,1,1
+4,Ahuntsic Southeast,H2N,Montreal,1,1
+5,Ahuntsic Southwest,H3L,Montreal,1,1
+6,Anjou East,H1K,Montreal,1,1
+7,Anjou West,H1J,Montreal,1,1
+8,Auteuil Northeast,H7J,Laval,1,1
+9,Auteuil South,H7K,Laval,1,1
+10,Auteuil West,H7H,Laval,1,1
+11,Beaconsfield,H9W,Montreal,1,1
+12,Cartierville Central,H4J,Montreal,1,1
+13,Cartierville Northeast,H3M,Montreal,1,1
+14,Cartierville Southwest,H4K,Montreal,1,1
+15,Centre-Sud North,H2K,Montreal,1,1
+16,Centre-Sud South,H2L,Montreal,1,1
+17,Chomedey East,H7V,Laval,1,1
+18,Chomedey Northeast,H7S,Laval,1,1
+19,Chomedey Northwest,H7T,Laval,1,1
+20,Chomedey South,H7W,Laval,1,1
+21,Concordia University,H3G,Montreal,1,1
+22,Côte Saint-Luc East,H4V,Montreal,1,1
+23,Côte Saint-Luc West,H4W,Montreal,1,1
+24,Côte-des-Neiges East,H3V,Montreal,1,1
+25,Côte-des-Neiges North,H3S,Montreal,1,1
+26,Côte-des-Neiges Northeast,H3T,Montreal,1,1
+27,Côte-des-Neiges Southwest,H3W,Montreal,1,1
+28,Dollard-des-Ormeaux East,H9B,Montreal,1,1
+29,Dollard-des-Ormeaux Northwest,H9A,Montreal,1,1
+30,Dollard-des-Ormeaux Southwest,H9G,Montreal,1,1
+31,Dorval Central,H4Y,Montreal,1,1
+32,Dorval Island(L'Île-Dorval),H9S,Montreal,1,1
+33,Dorval Outskirts,H9P,Montreal,1,1
+34,Downtown Montreal East,H3B,Montreal,1,1
+35,Downtown Montreal North,H3A,Montreal,1,1
+36,Downtown Montreal Northeast,H2Z,Montreal,1,1
+37,Downtown Montreal Southwest,H3H,Montreal,1,1
+38,Duvernay,H7E,Laval,1,1
+39,Duvernay-Est,H7A,Laval,1,1
+40,Fabreville,H7P,Laval,1,1
+41,Griffintown,H3C,Montreal,4,1
+42,Hampstead,H3X,Montreal,1,1
+43,Hochelaga,H1W,Montreal,1,1
+44,Îles Laval,H7Y,Laval,1,1
+45,Kirkland,H9J,Montreal,1,1
+46,La Petite-Patrie Northeast,H2G,Montreal,1,1
+47,La Petite-Patrie Southwest,H2S,Montreal,1,1
+48,Lachine East,H8S,Montreal,1,1
+49,Lachine West,H8T,Montreal,1,1
+50,LaSalle,H8N,Montreal,1,1
+51,LaSalle Southeast,H8P,Montreal,1,1
+52,LaSalle West,H8R,Montreal,2,1
+53,Laval-des-Rapides,H7N,Laval,1,1
+54,Laval-sur-le-Lac,H7R,Laval,1,1
+55,Le Plateau-Mont-Royal North,H2H,Montreal,1,1
+56,Le Plateau-Mont-Royal North Central,H2J,Montreal,1,1
+57,Le Plateau-Mont-Royal South Central,H2W,Montreal,1,1
+58,Le Plateau-Mont-Royal Southeast,H2X,Montreal,1,1
+59,Le Plateau-Mont-Royal West,H2T,Montreal,1,1
+60,L'Île-Bizard Northeast,H9C,Montreal,1,1
+61,L'Île-Bizard Southwest,H9E,Montreal,1,1
+62,Little Burgundy(La Petite-Bourgogne),H3J,Montreal,1,1
+63,Maisonneuve,H1V,Montreal,1,1
+64,Mercier North,H1L,Montreal,1,1
+65,Mercier Southeast,H1N,Montreal,1,1
+66,Mercier West,H1M,Montreal,1,1
+67,Montreal West,H4X,Montreal,1,1
+68,Montréal-Est,H1B,Montreal,1,1
+69,Montréal-Nord North,H1G,Montreal,1,1
+70,Montréal-Nord South,H1H,Montreal,1,1
+71,Mount Royal Central,H3R,Montreal,1,1
+72,Mount Royal North,H3P,Montreal,1,1
+73,Mount Royal South,H4P,Montreal,1,1
+74,Notre Dame Island (Île Notre-Dame),H3C,Montreal,4,1
+75,Notre-Dame-de-Grâce  Northeast,H4A,Montreal,1,1
+76,Notre-Dame-de-Grâce Southwest,H4B,Montreal,1,1
+77,Nuns' Island (Île des Sœurs),H3E,Montreal,1,1
+78,Old Montreal,H2Y,Montreal,1,1
+79,Outremont,H2V,Montreal,1,1
+80,Park Extension,H3N,Montreal,1,1
+81,Pierrefonds,H8Z,Montreal,1,2
+82,Pierrefonds,H9H,Montreal,2,2
+83,Pierrefonds-Roxboro,H8Y,Montreal,1,1
+84,Place Bonaventure,H5A,Montreal,1,1
+85,Place Desjardins,H5B,Montreal,1,1
+86,Pointe-aux-Trembles,H1A,Montreal,1,1
+87,Pointe-Claire,H9R,Montreal,1,1
+88,Pointe-Saint-Charles,H3K,Montreal,1,1
+89,Pont-Viau,H7G,Laval,1,1
+90,Rivière des Prairies Northeast,H1C,Montreal,1,1
+91,Rivière des Prairies Southwest,H1E,Montreal,1,1
+92,Rosemont Central,H1X,Montreal,1,1
+93,Rosemont North,H1T,Montreal,1,1
+94,Rosemont South,H1Y,Montreal,1,1
+95,Saint Helen's Island (Île Sainte-Hélène),H3C,Montreal,4,1
+96,Sainte-Anne-de-Bellevue,H9X,Montreal,1,1
+97,Sainte-Dorothée,H7X,Laval,1,1
+98,Sainte-Geneviève,H9H,Montreal,2,1
+99,Sainte-Rose,H7L,Laval,1,1
+100,Saint-François,H7B,Laval,1,1
+101,Saint-Henri,H4C,Montreal,1,1
+102,Saint-Laurent Central,H4R,Montreal,1,1
+103,Saint-Laurent East,H4M,Montreal,1,1
+104,Saint-Laurent Inner Northeast,H4L,Montreal,1,1
+105,Saint-Laurent Outer Northeast,H4N,Montreal,1,1
+106,Saint-Laurent Southeast,H4T,Montreal,1,1
+107,Saint-Laurent Southwest,H4S,Montreal,1,1
+108,Saint-Leonard North,H1P,Montreal,1,1
+109,Saint-Leonard Southeast,H1S,Montreal,1,1
+110,Saint-Leonard West,H1R,Montreal,1,1
+111,Saint-Michel,H2A,Montreal,1,1
+112,Saint-Michel West,H1Z,Montreal,1,1
+113,Saint-Vincent-de-Paul,H7C,Laval,1,1
+114,Senneville,H9K,Montreal,1,1
+115,Tour de la Bourse,H4Z,Montreal,1,1
+116,Université de Montréal,H3C,Montreal,4,1
+117,Verdun North,H4G,Montreal,1,1
+118,Verdun South,H4H,Montreal,1,1
+119,Ville Saint-Pierre,H8R,Montreal,2,1
+120,Ville-Émard,H4E,Montreal,1,1
+121,Villeray Northeast,H2E,Montreal,1,1
+122,Villeray Southeast,H2R,Montreal,1,1
+123,Villeray West,H2P,Montreal,1,1
+124,Vimont,H7M,Laval,1,1
+125,Westmount North,H3Y,Montreal,1,1
+126,Westmount South,H3Z,Montreal,1,1
