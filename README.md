@@ -18,12 +18,14 @@ I did a similar work to collect data from the other pages.
 
 Power BI
 The next step after finishing the data picking was to load them to Power BI and draw the reports.  It took some time to be done. I have needed to restructure the data, creating relationship among the tables, and develop some measures. At the end of this tough job, I could rank each Montreal Postal code by the 6 factors below:
+
 •	Price to rent
 •	Infraction Number per day
 •	Walk Score 
 •	Secondary Schools score
 •	Language official (French or English) most used in that Postal Code
 •	Immigrant population 
+
 After concluded the reports, I normalized the rank for the 101 Montreal Postal codes for each factor.  In order to highlight the factors more important, it was attributed a grade from 1 to 5 to be used to highlight the area in the MAP that fit better with my interest.  
 
 Conclusion
