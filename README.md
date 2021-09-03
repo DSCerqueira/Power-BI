@@ -35,6 +35,7 @@ The next step after finishing the data picking was to load them to Power BI and 
 After concluded the reports, I normalized the rank for the 101 Montreal Postal codes for each factor.  In order to highlight the factors more important, it was attributed a grade from 1 to 5 to be used to highlight the area in the MAP that fit better with my interest.  
 
 Conclusion
+
 I hope the time I spent doing this could help me on my next “chase” for an apartment.  Maybe, I try to add some more information, or I use some Machine Learning algorithm to evaluate better the decision results. I am not sure, but I will try to update the dashboard once a week, or develop some routine to automatize it. 
 
 
