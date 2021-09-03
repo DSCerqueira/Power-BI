@@ -38,6 +38,5 @@ Conclusion
 I hope the time I spent doing this could help me on my next “chase” for an apartment.  Maybe, I try to add some more information, or I use some Machine Learning algorithm to evaluate better the decision results. I am not sure, but I will try to update the dashboard once a week, or develop some routine to automatize it. 
 
 
-
 Power BI  Dashboard to help to make decisions, what place in Montreal to rent an apartment.
 [Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDY5NjIyMjctMTRlNi00YmQ4LWEzN2YtZjg4YjIyZmZkNmFjIiwidCI6IjdjZjAxODFkLTg3MDMtNDgyNC1hYjRjLTI1YmIwYzM1YjU2ZSJ9&pageName=ReportSectiond3d1edabe72059509d74)
