@@ -10,7 +10,7 @@ The first step was to collect the data from the sources. In order to do that I h
  Kijiji Web Scrape
 Before developing the app, I have done some research into Kijiji page to identify the fields I wanted to collect. Based on this, I wrote some code lines and tried it. I realized that it would be necessary around 8000 searches on the page to get the data. One of the problems I would have, it would be the failure when a page wouldn’t be updated or returned a wrong page. To deal with this problem, I inserted a block with “try and except”, a loop with “While”, and a “time.sleep()” to deal with the exceptions. If the error persisted a file with the URLs not collected would be saved to be treated for me after.  Here there is some part of the code:
  
- 
+ ![](gitup01.JPG)
 
  
 
@@ -18,12 +18,20 @@ I did a similar work to collect data from the other pages.
 
 Power BI
 The next step after finishing the data picking was to load them to Power BI and draw the reports.  It took some time to be done. I have needed to restructure the data, creating relationship among the tables, and develop some measures. At the end of this tough job, I could rank each Montreal Postal code by the 6 factors below:
+
 •	Price to rent
+
 •	Infraction Number per day
-•	Walk Score 
+
+•	Walk Score
+
 •	Secondary Schools score
+
 •	Language official (French or English) most used in that Postal Code
-•	Immigrant population 
+
+•	Immigrant population
+
+
 After concluded the reports, I normalized the rank for the 101 Montreal Postal codes for each factor.  In order to highlight the factors more important, it was attributed a grade from 1 to 5 to be used to highlight the area in the MAP that fit better with my interest.  
 
 Conclusion
