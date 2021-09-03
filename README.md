@@ -12,7 +12,6 @@ Before developing the app, I have done some research into Kijiji page to identif
  
  ![](gitup01.JPG)
 
- 
 
 I did a similar work to collect data from the other pages.
 
