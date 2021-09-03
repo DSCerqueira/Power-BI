@@ -40,4 +40,4 @@ I hope the time I spent doing this could help me on my next “chase” for an a
 
 
 Power BI  Dashboard to help to make decisions, what place in Montreal to rent an apartment.
-[Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDY5NjIyMjctMTRlNi00YmQ4LWEzN2YtZjg4YjIyZmZkNmFjIiwidCI6IjdjZjAxODFkLTg3MDMtNDgyNC1hYjRjLTI1YmIwYzM1YjU2ZSJ9&pageName=ReportSection958ab6250bdc7d3deae5)
+[Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDY5NjIyMjctMTRlNi00YmQ4LWEzN2YtZjg4YjIyZmZkNmFjIiwidCI6IjdjZjAxODFkLTg3MDMtNDgyNC1hYjRjLTI1YmIwYzM1YjU2ZSJ9&pageName=ReportSectiond3d1edabe72059509d74)
