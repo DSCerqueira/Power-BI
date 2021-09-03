@@ -12,7 +12,6 @@ Before developing the app, I have done some research into Kijiji page to identif
  
  ![](gitup01.JPG)
 
- 
 
 I did a similar work to collect data from the other pages.
 
@@ -35,9 +34,9 @@ The next step after finishing the data picking was to load them to Power BI and 
 After concluded the reports, I normalized the rank for the 101 Montreal Postal codes for each factor.  In order to highlight the factors more important, it was attributed a grade from 1 to 5 to be used to highlight the area in the MAP that fit better with my interest.  
 
 Conclusion
+
 I hope the time I spent doing this could help me on my next “chase” for an apartment.  Maybe, I try to add some more information, or I use some Machine Learning algorithm to evaluate better the decision results. I am not sure, but I will try to update the dashboard once a week, or develop some routine to automatize it. 
 
 
-
 Power BI  Dashboard to help to make decisions, what place in Montreal to rent an apartment.
-[Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDY5NjIyMjctMTRlNi00YmQ4LWEzN2YtZjg4YjIyZmZkNmFjIiwidCI6IjdjZjAxODFkLTg3MDMtNDgyNC1hYjRjLTI1YmIwYzM1YjU2ZSJ9&pageName=ReportSection958ab6250bdc7d3deae5)
+[Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDY5NjIyMjctMTRlNi00YmQ4LWEzN2YtZjg4YjIyZmZkNmFjIiwidCI6IjdjZjAxODFkLTg3MDMtNDgyNC1hYjRjLTI1YmIwYzM1YjU2ZSJ9&pageName=ReportSectiond3d1edabe72059509d74)
