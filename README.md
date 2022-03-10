@@ -39,4 +39,4 @@ I hope the time I spent doing this could help me on my next “chase” for an a
 
 
 Power BI  Dashboard to help to make decisions, what place in Montreal to rent an apartment.
-[Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDY5NjIyMjctMTRlNi00YmQ4LWEzN2YtZjg4YjIyZmZkNmFjIiwidCI6IjdjZjAxODFkLTg3MDMtNDgyNC1hYjRjLTI1YmIwYzM1YjU2ZSJ9&pageName=ReportSectiond3d1edabe72059509d74)
+[Link to Dashboard](https://app.powerbi.com/Redirect?action=OpenApp&appId=0b8aabd5-a50f-44bb-89e8-abddf0132fc9&ctid=7cf0181d-8703-4824-ab4c-25bb0c35b56e)
